@@ -50,7 +50,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "latest",
     "eslint-plugin-standard": "^4.1.0",
-    "eslint-plugin-vue": "^7.3.0",
+    "eslint-plugin-vue": "^7.4.0",
     "husky": "^4.3.6",
     "jest": "^26.6.3",
     "nuxt": "^2.14.12",
